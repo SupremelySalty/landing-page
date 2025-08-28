@@ -180,3 +180,13 @@ q {
     color: white;
     border-color: white;
 }
+
+/* Footer */
+
+.footer {
+    margin: 0;
+    background-color: #106149;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
